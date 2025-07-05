@@ -1,1 +1,0 @@
-import{U as t,v as e}from"./index-B28MY1bo.js";const a=()=>{t({index:0,text:e.t("page.nav.1")}),t({index:1,text:e.t("page.nav.2")}),t({index:2,text:e.t("page.nav.3")}),t({index:3,text:e.t("page.nav.4")})};export{a as s};
